@@ -1,3 +1,6 @@
+# Created by Zaire Lawrence 3/31/2023 4:39 AM 
+# Emails: zlawren1@uncc.edu, zjlaw@outlook.com
+
 import pyrealsense2.pyrealsense2 as rs
 import numpy as np
 import math as m
